@@ -1,0 +1,11 @@
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.exe.config
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.exe
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\bin\Debug\FibonacciOrtalamaHesaplama.pdb
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.Form1.resources
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.Properties.Resources.resources
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.GenerateResource.cache
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.exe
+D:\Dersler\C# Patika.dev Projeleri\1) Fibonacci Ortalama Hesaplama\FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama\obj\Debug\FibonacciOrtalamaHesaplama.pdb

@@ -1,0 +1,11 @@
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\bin\Debug\StringBolumleme.exe.config
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\bin\Debug\StringBolumleme.exe
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\bin\Debug\StringBolumleme.pdb
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.Form1.resources
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.Properties.Resources.resources
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.csproj.GenerateResource.cache
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.exe
+D:\Dersler\C# Patika.dev Projeleri\3) String Bölümleme\StringBolumleme\StringBolumleme\obj\Debug\StringBolumleme.pdb

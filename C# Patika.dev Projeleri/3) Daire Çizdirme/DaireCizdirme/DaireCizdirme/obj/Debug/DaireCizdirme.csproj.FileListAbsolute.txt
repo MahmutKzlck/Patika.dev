@@ -1,0 +1,11 @@
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\bin\Debug\DaireCizdirme.exe.config
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\bin\Debug\DaireCizdirme.exe
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\bin\Debug\DaireCizdirme.pdb
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.Form1.resources
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.Properties.Resources.resources
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.csproj.GenerateResource.cache
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.exe
+D:\Dersler\C# Patika.dev Projeleri\3) Daire Çizdirme\DaireCizdirme\DaireCizdirme\obj\Debug\DaireCizdirme.pdb

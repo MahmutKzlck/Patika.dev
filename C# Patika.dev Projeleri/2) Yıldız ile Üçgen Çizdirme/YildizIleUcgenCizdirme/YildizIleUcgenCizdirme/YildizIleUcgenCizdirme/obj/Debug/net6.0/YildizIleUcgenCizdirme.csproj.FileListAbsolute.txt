@@ -1,0 +1,15 @@
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\bin\Debug\net6.0\YildizIleUcgenCizdirme.exe
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\bin\Debug\net6.0\YildizIleUcgenCizdirme.deps.json
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\bin\Debug\net6.0\YildizIleUcgenCizdirme.runtimeconfig.json
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\bin\Debug\net6.0\YildizIleUcgenCizdirme.dll
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\bin\Debug\net6.0\YildizIleUcgenCizdirme.pdb
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.AssemblyInfoInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.AssemblyInfo.cs
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.dll
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\refint\YildizIleUcgenCizdirme.dll
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.pdb
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\YildizIleUcgenCizdirme.genruntimeconfig.cache
+D:\Dersler\C# Patika.dev Projeleri\6) Yıldız ile Üçgen Çizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\YildizIleUcgenCizdirme\obj\Debug\net6.0\ref\YildizIleUcgenCizdirme.dll

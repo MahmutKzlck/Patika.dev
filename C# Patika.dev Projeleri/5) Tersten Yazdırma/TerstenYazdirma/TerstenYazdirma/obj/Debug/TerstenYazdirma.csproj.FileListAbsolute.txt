@@ -1,0 +1,11 @@
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.exe.config
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.exe
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\bin\Debug\TerstenYazdirma.pdb
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.Form1.resources
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.Properties.Resources.resources
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.GenerateResource.cache
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.exe
+D:\Dersler\C# Patika.dev Projeleri\4) Tersten Yazdırma\TerstenYazdirma\TerstenYazdirma\obj\Debug\TerstenYazdirma.pdb
