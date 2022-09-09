@@ -1,0 +1,11 @@
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.exe.config
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.exe
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\bin\Debug\AlanHesaplama.pdb
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.AssemblyReference.cache
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.SuggestedBindingRedirects.cache
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.Form1.resources
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.Properties.Resources.resources
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.GenerateResource.cache
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.CoreCompileInputs.cache
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.exe
+D:\Dersler\C# Patika.dev Projeleri\7) Alan Hesaplama\AlanHesaplama\AlanHesaplama\obj\Debug\AlanHesaplama.pdb
